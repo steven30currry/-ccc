@@ -24,7 +24,7 @@ Social Contact是一款用于社交交友的小程序，它能够根据用户的
 
 > **就整体而言，小程序主要分为首页+附近的人+消息+我的 四个主要模块来进行构造**
 
-![image-20200920000900672](https://github.com/wulidurant/-ccc/blob/master/7.png)
+![image](https://github.com/wulidurant/-ccc/blob/master/7.png)
 
 
 
@@ -32,15 +32,15 @@ Social Contact是一款用于社交交友的小程序，它能够根据用户的
 
 #### 3.1 效果截图：
 
-![img](https://github.com/wulidurant/-ccc/blob/master/1.png)
+![image](https://github.com/wulidurant/-ccc/blob/master/1.png)
 
-![img](https://github.com/wulidurant/-ccc/blob/master/2.png)
+![image](https://github.com/wulidurant/-ccc/blob/master/2.png)
 
-![img](https://github.com/wulidurant/-ccc/blob/master/3.png)
+![image](https://github.com/wulidurant/-ccc/blob/master/3.png)
 
-![img](https://github.com/wulidurant/-ccc/blob/master/4.png)
+![image](https://github.com/wulidurant/-ccc/blob/master/4.png)
 
-![img](https://github.com/wulidurant/-ccc/blob/master/5.png)
+![image](https://github.com/wulidurant/-ccc/blob/master/5.png)
 
 #### 3.2 部分功能代码：
 
@@ -251,7 +251,7 @@ Social Contact是一款用于社交交友的小程序，它能够根据用户的
 
 体验二维码：
 
-![orN3s4lDPJrro_mgZ7za4J2wuuEk](https://github.com/wulidurant/-ccc/blob/master/7.jpg)
+![image](https://github.com/wulidurant/-ccc/blob/master/7.jpg)
 
 ### 五、开发者
 
