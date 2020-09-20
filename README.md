@@ -34,7 +34,7 @@ Social Contact是一款用于社交交友的小程序，它能够根据用户的
 
 ![在这里插入图片描述](1.png)
 
-![image](https://github.com/wulidurant/-ccc/blob/master/2.png)
+![image](2.png)
 
 ![image](https://github.com/wulidurant/-ccc/blob/master/3.png)
 
